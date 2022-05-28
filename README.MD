@@ -39,7 +39,7 @@
   <a href="mailto:0x7ex@protonmail.com">
     <img
       alt="Protonmail"
-      src="https://img.shields.io/protonmail/logo=discord&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"
+      src="https://img.shields.io/badge/Protonmail-Contact me-%2300457C.svg?logo=protonmail&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"
     />
   </a>
 </div>
