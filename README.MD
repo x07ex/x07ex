@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://github.com/x07ex/x07ex/blob/main/assets/kalium.svg" alt="" />
+  <img src="https://github.com/x07ex/x07ex/blob/main/assets/kalium.svg" alt="" href="https://kalium.sh" />
 </div>
