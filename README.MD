@@ -36,10 +36,10 @@
       src="https://img.shields.io/badge/Telegram-Write me!-%2300457C.svg?logo=telegram&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"
     />
   </a>
-  <a href="https://discord.gg/5dZPVytKnn">
+  <a href="mailto:0x7ex@protonmail.com">
     <img
-      alt="Discord server"
-      src="https://img.shields.io/discord/914797672907563041?logo=discord&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"
+      alt="Protonmail"
+      src="https://img.shields.io/protonmail/logo=discord&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"
     />
   </a>
 </div>
